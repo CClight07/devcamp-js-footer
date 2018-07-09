@@ -1,0 +1,21 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "1.0.0",
+  "description": "footer disign template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://npm set init.author.email \"your@gmail.com\""
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "jacob cook <cookjb15@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
